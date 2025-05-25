@@ -1,0 +1,9 @@
+📦 Movie-Recommendation-System/
+├── movieflix1.py              # Main Streamlit app
+├── movies.csv                 # Movie metadata
+├── credits.csv                # Cast and crew
+├── ratings.csv                # User ratings (for simulation)
+├── links.csv                  # TMDb/IMDb links
+├── hybrid (1).ipynb           # Development notebook (optional)
+├── requirements.txt           # Python dependencies
+└── README.md                  # This file
