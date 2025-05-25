@@ -1,4 +1,4 @@
-# 🎬 Hybrid Movie Recommendation System
+# Hybrid Movie Recommendation System
 
 A content + collaborative filtering-based movie recommender system with a beautiful **Streamlit** web interface. Built using **NLP (TF-IDF)**, **KNN**, and a simulated **collaborative filtering** model, this hybrid system provides accurate and personalized movie recommendations.  
 
@@ -6,18 +6,18 @@ A content + collaborative filtering-based movie recommender system with a beauti
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🎯 **Hybrid Recommendation**: Combines content similarity and simulated user preferences.
-- 🎞️ **Movie Posters & Trailers**: Integrates with TMDb and YouTube.
-- 🎨 **Interactive UI**: Built with Streamlit, styled with HTML/CSS.
-- 📊 **Genre Filters**: Customize recommendations by genre.
-- 🔀 **"Surprise Me"** Feature: Get random movie suggestions.
-- ☁️ **Deployed Web App**: [View Demo](https://your-deployment-url)
+- **Hybrid Recommendation**: Combines content similarity and simulated user preferences.
+- **Movie Posters & Trailers**: Integrates with TMDb and YouTube.
+- **Interactive UI**: Built with Streamlit, styled with HTML/CSS.
+- **Genre Filters**: Customize recommendations by genre.
+- **"Surprise Me"** Feature: Get random movie suggestions.
+- **Deployed Web App**: [View Demo](https://your-deployment-url)
 
 ---
 
-## 🧠 How it Works
+## How it Works
 
 ### 1. **Content-Based Filtering**
 - Extracts keywords from:
@@ -40,7 +40,7 @@ A content + collaborative filtering-based movie recommender system with a beauti
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### 1. Clone the Repository
 
